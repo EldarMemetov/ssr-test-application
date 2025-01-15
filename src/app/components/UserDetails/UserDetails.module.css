@@ -1,0 +1,70 @@
+.container {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.name {
+  font-size: 28px;
+  color: #333;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.sectionTitle {
+  font-size: 22px;
+  color: #555;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.detail {
+  font-size: 16px;
+  color: #666;
+  margin: 8px 0;
+}
+
+.detail strong {
+  color: #333;
+}
+
+.detailContainer {
+  margin-bottom: 20px;
+}
+
+.link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.address {
+  padding: 10px;
+  background-color: #f1f1f1;
+  border-radius: 6px;
+}
+
+.company {
+  padding: 10px;
+  background-color: #f1f1f1;
+  border-radius: 6px;
+}
+
+.login {
+  padding: 10px;
+  background-color: #f1f1f1;
+  border-radius: 6px;
+}
+
+.error {
+  color: #ff4d4f;
+  font-size: 16px;
+  font-weight: bold;
+}

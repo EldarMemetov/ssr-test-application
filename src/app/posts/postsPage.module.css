@@ -1,0 +1,55 @@
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.noPosts {
+  font-size: 18px;
+  text-align: center;
+  color: #666;
+}
+
+.postItem {
+  margin-bottom: 10px;
+}
+
+.postLink {
+  text-decoration: none;
+  font-size: 20px;
+  color: #202223;
+  padding: 10px 15px;
+  display: block;
+  border: 1px solid #5e6062;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.postLink:hover {
+  background-color: #02152b;
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(0, 112, 243, 0.2);
+}
+
+.errorContainer {
+  text-align: center;
+  padding: 20px;
+  background-color: #ffe6e6;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(255, 0, 0, 0.1);
+}
+
+.errorMessage {
+  font-size: 16px;
+  color: #cc0000;
+}
